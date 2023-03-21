@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  msc-simple-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-21T11:21:54.143906826+04:00"
+    description: A Helm chart for Kubernetes
+    digest: 7c807ea9d3978c9b71ddf95ff538235382ebc251fddcb1e3149ded747ee8e7fe
+    name: msc-simple-app
+    type: application
+    urls:
+    - https://github.com/darkleon/msc-simple-app.git/msc-simple-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-21T11:21:54.143004326+04:00"
